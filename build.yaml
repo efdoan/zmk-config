@@ -22,28 +22,4 @@ include:
     shield: kyria_left
   - board: nrf52840_m2
     shield: kyria_right
-include:
-  - board: nrf52840_m2
-    shield: kyria_left
-  - board: nrf52840_m2
-    shield: kyria_right
-include:
-  - board: nrf52840_m2
-    shield: kyria_left
-  - board: nrf52840_m2
-    shield: kyria_right
-include:
-  - board: nrf52840_m2
-    shield: kyria_left
-  - board: nrf52840_m2
-    shield: kyria_right
-include:
-  - board: nrf52840_m2
-    shield: kyria_left
-  - board: nrf52840_m2
-    shield: kyria_right
-include:
-  - board: nrf52840_m2
-    shield: kyria_left
-  - board: nrf52840_m2
-    shield: kyria_right
+
